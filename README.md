@@ -1,6 +1,6 @@
 # `Spring Boot & Auto-Scaling`
 
-- [Blue/Grenn 배포 방식이란?](https://devlog-wjdrbs96.tistory.com/300)
+- [Blue/Green 배포 방식이란?](https://devlog-wjdrbs96.tistory.com/300)
 - [Blue/Green 자동화 배포하는 법 정리](https://devlog-wjdrbs96.tistory.com/305)
 
 <br>
